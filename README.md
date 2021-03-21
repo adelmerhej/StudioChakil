@@ -1,2 +1,2 @@
 # StudioChakil
-Simple HTML web for Studio Chakil - studiochakil.com
+Simple HTML web for Studio Chakil - http://studiochakil.com
